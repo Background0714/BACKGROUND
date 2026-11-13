@@ -1,7 +1,8 @@
+ ## 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?!
+
 **[Windows 게임 다운로드](https://github.com/Background0714/BACKGROUND/releases/download/v1.0/BACKGROUND-Windows.zip)** · [릴리스 페이지](https://github.com/Background0714/BACKGROUND/releases/tag/v1.0)
 
-## 게임 제목
-**대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?!**
+## 게임 소개
 
 「대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?!」는 이세계의 탑을 오르며 각 층의 보스에 도전하는 **2D 탑다운 보스 액션 게임**입니다.
 
