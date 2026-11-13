@@ -1,6 +1,6 @@
  ## 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?!
 
-**[Windows 게임 다운로드](https://github.com/Background0714/BACKGROUND/releases/download/v1.0/BACKGROUND-Windows.zip)** · [릴리스 페이지](https://github.com/Background0714/BACKGROUND/releases/tag/v1.0)
+[릴리스 페이지](https://github.com/Background0714/BACKGROUND/releases/tag/v1.0)
 
 ## 게임 소개
 
